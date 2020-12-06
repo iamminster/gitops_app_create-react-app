@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+  node:
+    build:
+      context: docker
+      dockerfile: Dockerfile.dev
+    volumes:
+      - ./app:/app
+    ports:
+      - 3000:3000
+    stdin_open: true
+    tty: true
+    command: yarn start

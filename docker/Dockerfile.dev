@@ -1,0 +1,5 @@
+FROM node:lts-alpine
+WORKDIR /app
+RUN apk update && \
+    npm install --save prop-types && \
+    npm install -g create-react-app
