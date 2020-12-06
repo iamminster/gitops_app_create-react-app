@@ -8,7 +8,7 @@ create-react-appをGKE上にデプロイするサンプルリポジトリです�
 docker-compose build
 ```
 
-## node_moduleインストール
+## node_modulesインストール
 
 コンテナ一時起動
 ```
