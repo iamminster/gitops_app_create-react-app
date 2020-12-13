@@ -2,7 +2,7 @@
 GitOpsのアプリリポジトリのサンプルです。
 
 こちらのQiita記事で使用しています。  
-`執筆中`
+https://qiita.com/Nishi53454367/items/4a4716dfbeebd70295d1
 
 # ローカル環境構築手順
 
