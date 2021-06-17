@@ -1,3 +1,4 @@
+#new line
 #insert new comment MinhN
 # gitops_app_create-react-app
 GitOpsのアプリリポジトリのサンプルです。
